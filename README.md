@@ -1,2 +1,2 @@
-# Schultz-S_Resume
+# Schultz-S.Resume
 My Resume

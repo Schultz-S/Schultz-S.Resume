@@ -1,2 +1,2 @@
-# Schultz-S.Resume
+# Schultz-S.github.io
 My Resume
